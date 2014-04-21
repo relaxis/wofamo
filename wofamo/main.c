@@ -5,7 +5,7 @@
 
 int main()
 {
-    printf("Hello world! %i\n", RandomNumber());
-    getMemePhrase();
+    printf("This is a random number %i\n", RandomNumber());
+    printf("This a random phrase taken from a text file %s", getMemePhrase());
     return 0;
 }
