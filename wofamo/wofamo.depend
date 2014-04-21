@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1398096905 source:/home/relaxis/Desktop/wofamo/wofamo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"RNG.h"
+	"getphrase.h"
+
+1398093580 /home/relaxis/Desktop/wofamo/wofamo/RNG.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1398097451 /home/relaxis/Desktop/wofamo/wofamo/getphrase.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
