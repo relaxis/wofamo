@@ -39,3 +39,23 @@
 	<stdio.h>
 	<stdlib.h>
 
+1399931379 source:/home/relaxis/Desktop/wofamo2/wofamo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"RNG.h"
+	"getphrase.h"
+	"spinwheel.h"
+
+1399931379 /home/relaxis/Desktop/wofamo2/wofamo/RNG.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1399931379 /home/relaxis/Desktop/wofamo2/wofamo/getphrase.h
+	<stdio.h>
+	<stdlib.h>
+
+1399931379 /home/relaxis/Desktop/wofamo2/wofamo/spinwheel.h
+	<stdio.h>
+	<stdlib.h>
+
