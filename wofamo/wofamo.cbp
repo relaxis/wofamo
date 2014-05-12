@@ -37,6 +37,7 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="memes.txt" />
+		<Unit filename="spinwheel.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
