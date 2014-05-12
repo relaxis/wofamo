@@ -14,9 +14,21 @@ int main()
     printf("*               €|€ THE GAME €|€                     *\n");
     printf("*                                                    *\n");
     printf("******************************************************\n");
-
-    printf("This is a random number %i\n", RandomNumber());
-    printf("This a random phrase taken from a text file %s", getMemePhrase());
+    printf("\n");
+    printf("Who will be our next big winner?\n");
+    printf("Will it be the man in the pink and green shirt?\n");
+    printf("Will it be the woman in the beige cocktail dress?\n");
+    printf("\n");
+    printf("Or will it be YOU?\n");
+    printf("Yes! YOU! \nSitting at the computer with one or two of your friends!\n");
+    printf("\n");
+    printf("Only one way to find out, and that is to play...\n");
+    printf("******************************************************\n");
+    printf("*                                                    *\n");
+    printf("*         $|$ THE WHEEL OF FORTUNE $|$               *\n");
+    printf("*               €|€ THE GAME €|€                     *\n");
+    printf("*                                                    *\n");
+    printf("******************************************************\n");
 
     int number_of_players;
     int score_counter_1;
