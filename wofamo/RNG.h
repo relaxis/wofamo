@@ -13,7 +13,7 @@
 int RandomNumber(void){
 
 srand(time(NULL));
-int rng = rand() % 29;
+int rng = rand() % 28;
 return rng;
 
 }

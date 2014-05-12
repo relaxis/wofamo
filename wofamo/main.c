@@ -6,6 +6,8 @@
 
 int main()
 {
+
+
     printf("This is a random number %i\n", RandomNumber());
     printf("This a random phrase taken from a text file %s", getMemePhrase());
 
@@ -13,6 +15,7 @@ int main()
 
     printf("spinning wheel/n");
     SpinTheWheel();
+    int scorevalue = casevalue;
 return 0;
 
 }
