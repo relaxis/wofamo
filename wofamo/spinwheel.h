@@ -7,15 +7,16 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "RNG.h"
 
 int SpinTheWheel(void){
 
 int wheelspinRN = RandomNumber();
 
-if (wheelspinRN == 0)
+if (wheelspinRN == 0){
 printf("The wheel landed on zero \n");
+return wheelspinRN;}
 return wheelspinRN;
+
 
 // we then do if then statements depending on what happens or we use a switch
 
