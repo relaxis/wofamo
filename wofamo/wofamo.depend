@@ -19,3 +19,23 @@
 	<stdio.h>
 	<stdlib.h>
 
+1399931188 source:/home/student/Desktop/wofamo/wofamo/wofamo/main.c
+	<stdio.h>
+	<stdlib.h>
+	"RNG.h"
+	"getphrase.h"
+	"spinwheel.h"
+
+1399930384 /home/student/Desktop/wofamo/wofamo/wofamo/RNG.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1399924633 /home/student/Desktop/wofamo/wofamo/wofamo/getphrase.h
+	<stdio.h>
+	<stdlib.h>
+
+1399930384 /home/student/Desktop/wofamo/wofamo/wofamo/spinwheel.h
+	<stdio.h>
+	<stdlib.h>
+
