@@ -13,9 +13,9 @@ int SpinTheWheel(void){
 
 int wheelspinRN = RandomNumber();
 
-
-
-
+if (wheelspinRN == 0)
+printf("The wheel landed on");
+return wheelspinRN;
 
 
 }
