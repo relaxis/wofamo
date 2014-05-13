@@ -37,8 +37,8 @@ int main()
     int turn_counter;
     int turn_flag = 0;
 
-    while(number_of_players < 1 || number_of_players > 3){
-    printf("How many contestants are playing now?");
+    while(number_of_players < 2 || number_of_players > 3){
+    printf("How many contestants are playing now? Only 2 or 3 players!");
     scanf("%d", &number_of_players);
     printf("\n");
     }
